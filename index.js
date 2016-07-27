@@ -7,6 +7,7 @@
 // You need to `npm install` the following dependencies: body-parser, express, request.
 //
 const bodyParser = require('body-parser');
+
 const express = require('express');
 
 // get Bot, const, and Facebook API
